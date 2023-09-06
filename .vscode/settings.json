@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#25302F",
+        "titleBar.activeBackground": "#344341",
+        "titleBar.activeForeground": "#F9FAFA"
+    },
+    "php.validate.executablePath": ""
+}
